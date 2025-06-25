@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dict_index.dir/src/DictProducer.cpp.o CMakeFiles/dict_index.dir/src/dict_index.cc.o -o ../bin/dict_index 

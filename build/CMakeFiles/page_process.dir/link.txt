@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/page_process.dir/src/page_process.cc.o CMakeFiles/page_process.dir/src/tinyxml2.cpp.o CMakeFiles/page_process.dir/src/PageProcessor.cpp.o -o ../bin/page_process 

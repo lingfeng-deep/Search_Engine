@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/http_server.dir/src/SearchServer.cpp.o CMakeFiles/http_server.dir/src/http_server.cc.o -o ../bin/http_server  -lwfrest -lredis++ -lhiredis -lpthread 
