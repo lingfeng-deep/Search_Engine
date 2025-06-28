@@ -1,7 +1,0 @@
-/home/ylj/source/MyProgram/cpp/SearchEngine/build/CMakeFiles/dict_index.dir
-/home/ylj/source/MyProgram/cpp/SearchEngine/build/CMakeFiles/page_process.dir
-/home/ylj/source/MyProgram/cpp/SearchEngine/build/CMakeFiles/client.dir
-/home/ylj/source/MyProgram/cpp/SearchEngine/build/CMakeFiles/server.dir
-/home/ylj/source/MyProgram/cpp/SearchEngine/build/CMakeFiles/http_server.dir
-/home/ylj/source/MyProgram/cpp/SearchEngine/build/CMakeFiles/edit_cache.dir
-/home/ylj/source/MyProgram/cpp/SearchEngine/build/CMakeFiles/rebuild_cache.dir
